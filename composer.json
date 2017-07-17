@@ -23,7 +23,7 @@
     ],
     "require": {
         "victoire/victoire": ">=2.0.0",
-        "friendsofvictoire/text-widget": ">=2.0.0"
+        "victoire/text-widget": ">=2.0.0"
     },
     "autoload": {
         "psr-0": {
